@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Poppins:wght@300;400;500;600&family=Roboto:wght@300;400;500&display=swap");
+:root {
+  background-color: rgb(224, 224, 224);
+}
+.App {
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+}
+h1 {
+  font-weight: 500;
+}
+.btn {
+  padding: 1rem 2rem;
+  border-color: black;
+  background-color: black;
+  border-radius: 0.5rem;
+  margin: 0.5rem;
+  color: white;
+  font-size: large;
+  font-weight: bolder;
+}
+hr {
+  width: 90%;
+  height: 1px;
+  background-color: black;
+}
+ul li {
+  list-style-type: none;
+  padding: 1rem;
+  text-align: left;
+  border-radius: 1rem;
+  border: 2px solid rgb(90, 90, 90);
+  width: 70%;
+  margin: auto;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+ul div {
+  padding: 0.5rem;
+}
+
+.desc {
+  font-size: x-small;
+}
